@@ -1,4 +1,4 @@
-#🛡️ Network Port Scanner GUI
+🛡️ Network Port Scanner GUI
 
 A lightweight, multi-threaded TCP port scanner with a sleek, dark-themed graphical user interface built with Python and Tkinter. 🚀
 
